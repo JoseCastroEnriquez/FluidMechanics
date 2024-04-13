@@ -1,0 +1,21 @@
+.cerrar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  left: 94%;
+  top: 90vh;
+  cursor: pointer;
+  color: white;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+.grilla {
+  width: 100%;
+  height: 96vh;
+  border: solid black 2px;
+  overflow: scroll;
+}
